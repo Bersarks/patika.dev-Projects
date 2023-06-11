@@ -18,4 +18,4 @@
 
 ![4_2.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework11/Images/42.Sorgu.png)
 
-![4_3.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework7/Images/43.Sorgu.png)
+![4_3.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework11/Images/43.Sorgu.png)
