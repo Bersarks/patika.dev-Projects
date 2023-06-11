@@ -1,12 +1,13 @@
-# SQL Patikası Ödev 6
-- film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
-![1.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework7/Images/1.Sorgu.png)
+# SQL Patikası Ödev 9
 
-- film tablosunda bulunan filmleri replacement_cost sütununa göre grupladığımızda film sayısı 50 den fazla olan replacement_cost değerini ve karşılık gelen film sayısını sıralayınız.
-![2.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework7/Images/2.Sorgu.png)
+- city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 
-- customer tablosunda bulunan store_id değerlerine karşılık gelen müşteri sayılarını nelerdir?
-![3.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework7/Images/3.Sorgu.png)
+![1.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework9/Images/1.Sorgu.png)
 
-- city tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
-![4.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework7/Images/4.Sorgu.png)
+- customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
+
+![2.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework9/Images/2.Sorgu.png)
+
+- customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
+
+![3.Sorgu](https://github.com/Bersarks/patika.dev-Projects/blob/main/SQL/dvdrental_homework9/Images/3.Sorgu.png)
